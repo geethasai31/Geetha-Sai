@@ -46,8 +46,6 @@ Showcasing my projects, technical skills, certifications, achievements, and lead
 
 ## 💼 Experience
 
-- 💻 **Web Development Intern — CodSoft**
-- 🎨 Worked on web development, design, and project implementation
 - 👥 Experience in student leadership, event coordination, and team management
 
 ---
