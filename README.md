@@ -8,7 +8,7 @@
 
 ## 🌐 Visit My Portfolio
 
-🔗 **[View My Portfolio](https://geethasai31.github.io/portfolio/)**
+🔗 **[View My Portfolio]((https://geethasai31.github.io/Geetha-Sai/))**
 
 Showcasing my projects, technical skills, certifications, achievements, and leadership experience.
 
